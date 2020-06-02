@@ -13,7 +13,7 @@ Requirements:
 * Filament of your choice
 
 ## View
-![Example](iso.jpg)
-![Example](iso2.jpg)
-![Example Case](20190901-DSC03976.jpg)
-![Example Case](20190901-DSC03978.jpg)
+<img src="iso.jpg" width="500" align="center"> 
+<img src="iso2.jpg" width="500" align="center"> 
+<img src="20190901-DSC03976.jpg" width="500" align="center"> 
+<img src="20190901-DSC03978.jpg" width="500" align="center"> 
